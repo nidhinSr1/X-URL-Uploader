@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi,
-I'm -Cf Uploader Bot!
+I'm -Cf Uploader Bot ⚡️!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
