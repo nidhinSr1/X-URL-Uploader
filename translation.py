@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi,
-I'm X-Cf Uploader!
+I'm -Cf Uploader Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
@@ -33,7 +33,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hi I'm Cf Uploader..
+    HELP_USER = """Hi I'm Cf Uploader Bot..
     
 1. Send url (X-File.mp4| X-NewFileName.mp4).
 2. Send Image As Custom Thumbnail (Optional).
