@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi,
-I'm X-URL Uploader!
+I'm X-Cf Uploader!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
@@ -16,7 +16,7 @@ URL | filename | username | password"""
     UPLOAD_START = "Now Uploading.."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, Now Uploading.."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @xurluploaderbot)"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @Cf_uploadingBot)"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nThanks for using @xurluploaderbot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/xgorn'>@xgorn</a>"
@@ -33,7 +33,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free Cloned User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hi I'm X-URL Uploader..
+    HELP_USER = """Hi I'm Cf Uploader..
     
 1. Send url (X-File.mp4| X-NewFileName.mp4).
 2. Send Image As Custom Thumbnail (Optional).
@@ -46,7 +46,7 @@ Expires on: 31/12/2020"""
 --------
 Send /me to know current plan details
 
-If bot didn't respond, contact @xgorn"""
+If bot didn't respond, contact @BerlinHere"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
